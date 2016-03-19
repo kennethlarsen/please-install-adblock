@@ -17,3 +17,5 @@ if(adblock) {
   alert("Please install AdBlock!");
 }
 ```
+## Demo
+http://kennethlarsen.github.io/pleaseinstalladblock/
